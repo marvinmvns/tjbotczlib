@@ -11,17 +11,20 @@
     "color-model": "^0.2.2",
     "colornames": "^1.1.1",
     "fifo": "^2.3.0",
-    "mic": "^2.1.2",
-    "node-raspistill": "^0.0.11",
+    "mic": "^2.1.2",    
     "object.pick": "^1.2.0",
-    "semaphore": "^1.0.5",
-    "sleep": "^5.0.0",
-    "sound-player": "^1.0.4",
-    "temp": "^0.8.3",
-    "ibm-watson": "^6.0.3",
-    "winston": "^2.3.1",
-    "pigpio": "^3.3.1",
-    "got": "^11.8.2"
+    "semaphore": "^1.0.5",    
+    "ibm-watson": "^6.0.3",   
+    "got": "^11.8.2" 
+    "bluebird": "^3.7.2",     
+    "node-raspistill": "^1.0.1",
+    "pigpio": "^3.2.3",
+    "rpi-ws281x-native": "^0.10.1",
+    "semaphore": "^1.1.0",
+    "sleep": "^6.3.0",
+    "sound-player": "^1.0.13",
+    "temp": "^0.9.1",
+    "winston": "^3.3.3" 
   },
   "engines": {
     "node": ">=4.2.4"
